@@ -1,5 +1,5 @@
 # certmon-dashboard
-A simple web dashboard for certmon.
+A simple web dashboard for Certmon.
 
 ## Requirements
 - Container Platform
